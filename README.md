@@ -110,9 +110,3 @@ python phishing_checker_cli.py https://www.paypal.com/login https://paypal.secur
 * For heavy use, increase timeout in requests / Selenium.
 
 ---
-
-## 📌 To-Do / Extensions
-
-* [ ] Add option to specify **custom output folder** (`--out my_results/`)
-* [ ] Support for **batch URL checking** from CSV
-* [ ] Integration with **ML phishing classifiers**
